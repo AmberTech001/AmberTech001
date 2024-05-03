@@ -6,3 +6,6 @@
 🔭 I'm currently working on understanding Java deeper<br/>
  
  📧 [e-mail](mwondhaambrose1998@gmail.com).<br/> 
+
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambrose&show_icons=true&theme=radical)
